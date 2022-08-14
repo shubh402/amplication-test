@@ -1,4 +1,4 @@
-FROM node:16-alpine AS base
+FROM node:18-alpine AS base
 
 # Define how verbose should npm install be
 ARG NPM_LOG_LEVEL=silent
