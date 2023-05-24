@@ -22,7 +22,7 @@
     "@nestjs/common": "9.4.0",
     "@nestjs/config": "2.3.0",
     "@nestjs/core": "9.4.0",
-    "@nestjs/graphql": "10.2.0",
+    "@nestjs/graphql": "11.0.6",
     "@nestjs/jwt": "10.0.0",
     "@nestjs/passport": "9.0.3",
     "@nestjs/platform-express": "9.4.0",
